@@ -8,6 +8,10 @@ A complete end-to-end **Data Analytics and Machine Learning** project that analy
 
 Customer churn is a critical KPI in the telecom industry. This project integrates **data analysis**, **visualization**, and **machine learning** to understand churn behavior and predict which customers are likely to leave the service.
 
+![Dashboard Preview](https://github.com/architaa1/Pbi_SQL_ML_INTEGRATED_PROJECT_TelecomChurnAnalysis/blob/main/Dashboard_Summary.png) 
+
+![Dashboard Preview](https://github.com/architaa1/Pbi_SQL_ML_INTEGRATED_PROJECT_TelecomChurnAnalysis/blob/main/Churn_Prediction.png) 
+
 ---
 
 ## 🧰 Tools & Technologies Used
